@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/
+
+# Android / Gradle
+.gradle/
+local.properties
+*/build/
+captures/
+.idea/
+*.iml
+

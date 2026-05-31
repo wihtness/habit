@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Habit Supervisor</string>
+    <string name="app_title">Habit Android MVP</string>
+    <string name="app_summary">This Android shell is structured for GitHub Actions APK builds and can be used as the mobile entry point for the reminder workflow later.</string>
+    <string name="card_title">Current State</string>
+    <string name="card_body">The project now has a standard Android app module, Gradle configuration, and CI workflow for building a Debug APK.</string>
+    <string name="card_button">Mark As Ready</string>
+    <string name="status_after_click">The Android project structure is ready for CI APK builds.</string>
+</resources>
+
